@@ -1,0 +1,41 @@
+.title {
+    padding: 0 2rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
+.space {
+    margin-bottom: 20px;
+}
+
+.inputField {
+    margin-right: 30px;
+}
+
+.inputInput {
+    padding: 15px;
+    background-color: whitesmoke;
+    
+}
+
+.inputInput:hover {
+    border-color: white;
+}
+
+.button {
+    padding: 10px;
+    width: 150px;
+    background-color: grey;
+    color: white;
+
+}
+.button:hover {
+    background-color: #fff;
+    color: black;
+}
