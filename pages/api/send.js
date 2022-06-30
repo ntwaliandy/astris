@@ -5,8 +5,8 @@ export default function (req, res) {
         port: 587,
         host: "smtp.gmail.com",
         auth: {
-            user: 'ntwaliandy90@gmail.com',
-            pass: 'rivt uopj ywhu baon'
+            user: 'put your own gmail account',
+            pass: 'put your own gmail password'
         },
         tls: {
             ciphers:'SSLv3'
